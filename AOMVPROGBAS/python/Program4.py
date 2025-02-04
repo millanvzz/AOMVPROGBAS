@@ -1,5 +1,5 @@
 def seriefib(n):
-    fibonacci = [0, 1]
+    fibonacci = [0, 1] 
     while True:
         seguir = fibonacci[-1] + fibonacci[-2]
         if seguir > n:

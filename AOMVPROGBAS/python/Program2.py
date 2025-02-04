@@ -1,9 +1,9 @@
-number1 = int(input("Ingresa un número: "))
+number1 = int(input("Ingresa un número: ")) #variables a tomar en cuenta
 number2 = int(input("Ingresar otro número: "))
 
-elección = 0
+elección = 0 #opcion para tomar valor despues
 
-while elección != 6:
+while elección != 6: #eleccion de operacion en ciclo
     print("""
     Indique la operación a realizar:
 
@@ -15,9 +15,9 @@ while elección != 6:
     6) Salir
     """)
 
-    elección = int(input())
+    elección = int(input()) #eleccion tomando valor 
 
-    if elección == 1:
+    if elección == 1: #procedimientos
         print(" ")
         print("Resultado: ", number1, "+", number2, "=", number1 + number2)
 

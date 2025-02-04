@@ -1,4 +1,4 @@
-def vernum(numero, multde):
+def vernum(numero, multde): #operacion a retornar
     if numero == 0:
         print("0 es neutro")
     elif numero % 2 == 0:

@@ -1,2 +1,0 @@
-# AOMVPROGBAS
-Portafolio Programacion Basica 
