@@ -1,4 +1,5 @@
-def es_bisiesto(a):
+#Anio bisiesto o no bisiesto
+def es_bisiesto(a): #Funcion
     if (a % 4 == 0 and a % 100 != 0) or (a % 400 == 0):
         return True
     return False
