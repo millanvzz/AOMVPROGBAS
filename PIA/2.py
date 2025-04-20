@@ -49,7 +49,7 @@ def mostrar_info_continente():
         return  # Salir de la función si no hay internet
     
     # Bonito título para que se vea profesional
-    print("\n ¡Explorador de Países por Continente! ")
+    print("\n ---Explorador de Países por Continente--- ")
     print("Continentes disponibles:")
     print("- África\n- América\n- Antártida\n- Asia\n- Europa\n- Oceanía")
     
