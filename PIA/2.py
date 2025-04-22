@@ -4,7 +4,7 @@ import requests
 import socket
 
 def verificar_conexion():
-    """Aquí revisamos si hay internet (por si el WiFi está de malas)"""
+    #Aquí revisamos si hay internet
     try:
         # Intentar conectar al servidor de google
         socket.create_connection(("8.8.8.8", 53), timeout=3)
@@ -14,14 +14,14 @@ def verificar_conexion():
         return False
 
 def obtener_paises_por_continente(continente):
-    """Esta función es como el buscador de países (el cerebro del programa)"""
+    #Esta función es como el buscador de países
     
-    # Aquí corregir, traducir, lo que sea... para hacer que sea lea la decision
-    mapeo_continentes = {
-        "antartida": "antarctic",  # Por si lo escriben mal
-        "antártida": "antarctic",  # Esta es la buena
-        "america": "americas",     # Para los que no usan acentos
-        "américa": "americas"      # Versión correcta
+    # Aquí corregir, traducir para hacer que sea lea la decision
+    mapeo_continentes = {          #Todas las correcciones para validar que el sistema lea las entradas
+        "antartida": "antarctic",  
+        "antártida": "antarctic",  
+        "america": "americas",     
+        "américa": "americas"      
     }
     
     # Limpiar lo que escribió el usuario
@@ -40,7 +40,7 @@ def obtener_paises_por_continente(continente):
         return None
 
 def mostrar_info_continente():
-    """Esta es la función principal (como el jefe de las otras)"""
+    #Esta es la función principal
     
     # Primero checar el internet (no vaya a ser que esté desconectado)
     if not verificar_conexion():
@@ -78,4 +78,3 @@ def mostrar_info_continente():
         print("Prueba con: África, América, Asia, Europa, Oceanía o Antártida")
 if __name__ == "__main__":
     mostrar_info_continente()  # Llamar a la función principal
-   
