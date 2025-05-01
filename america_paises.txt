@@ -1,0 +1,336 @@
+1. Mexico
+   Capital   : Mexico City
+   Población : 128.932.753
+   Idioma    : Spanish
+   Divisa    : Mexican peso (MXN)
+
+2. United States Virgin Islands
+   Capital   : Charlotte Amalie
+   Población : 106.290
+   Idioma    : English
+   Divisa    : United States dollar (USD)
+
+3. Haiti
+   Capital   : Port-au-Prince
+   Población : 11.402.533
+   Idioma    : French
+   Divisa    : Haitian gourde (HTG)
+
+4. Belize
+   Capital   : Belmopan
+   Población : 397.621
+   Idioma    : Belizean Creole
+   Divisa    : Belize dollar (BZD)
+
+5. Sint Maarten
+   Capital   : Philipsburg
+   Población : 40.812
+   Idioma    : English
+   Divisa    : Netherlands Antillean guilder (ANG)
+
+6. French Guiana
+   Capital   : Cayenne
+   Población : 254.541
+   Idioma    : French
+   Divisa    : Euro (EUR)
+
+7. Cuba
+   Capital   : Havana
+   Población : 11.326.616
+   Idioma    : Spanish
+   Divisa    : Cuban convertible peso (CUC)
+
+8. Martinique
+   Capital   : Fort-de-France
+   Población : 378.243
+   Idioma    : French
+   Divisa    : Euro (EUR)
+
+9. Antigua and Barbuda
+   Capital   : Saint John's
+   Población : 97.928
+   Idioma    : English
+   Divisa    : Eastern Caribbean dollar (XCD)
+
+10. Peru
+   Capital   : Lima
+   Población : 32.971.846
+   Idioma    : Aymara
+   Divisa    : Peruvian sol (PEN)
+
+11. Bermuda
+   Capital   : Hamilton
+   Población : 63.903
+   Idioma    : English
+   Divisa    : Bermudian dollar (BMD)
+
+12. Guadeloupe
+   Capital   : Basse-Terre
+   Población : 400.132
+   Idioma    : French
+   Divisa    : Euro (EUR)
+
+13. United States
+   Capital   : Washington, D.C.
+   Población : 329.484.123
+   Idioma    : English
+   Divisa    : United States dollar (USD)
+
+14. Argentina
+   Capital   : Buenos Aires
+   Población : 45.376.763
+   Idioma    : Guaraní
+   Divisa    : Argentine peso (ARS)
+
+15. Puerto Rico
+   Capital   : San Juan
+   Población : 3.194.034
+   Idioma    : English
+   Divisa    : United States dollar (USD)
+
+16. Turks and Caicos Islands
+   Capital   : Cockburn Town
+   Población : 38.718
+   Idioma    : English
+   Divisa    : United States dollar (USD)
+
+17. Paraguay
+   Capital   : Asunción
+   Población : 7.132.530
+   Idioma    : Guaraní
+   Divisa    : Paraguayan guaraní (PYG)
+
+18. Chile
+   Capital   : Santiago
+   Población : 19.116.209
+   Idioma    : Spanish
+   Divisa    : Chilean peso (CLP)
+
+19. Saint Kitts and Nevis
+   Capital   : Basseterre
+   Población : 53.192
+   Idioma    : English
+   Divisa    : Eastern Caribbean dollar (XCD)
+
+20. United States Minor Outlying Islands
+   Capital   : Washington DC
+   Población : 300
+   Idioma    : English
+   Divisa    : United States dollar (USD)
+
+21. Anguilla
+   Capital   : The Valley
+   Población : 13.452
+   Idioma    : English
+   Divisa    : Eastern Caribbean dollar (XCD)
+
+22. Bolivia
+   Capital   : Sucre
+   Población : 11.673.029
+   Idioma    : Aymara
+   Divisa    : Bolivian boliviano (BOB)
+
+23. Greenland
+   Capital   : Nuuk
+   Población : 56.367
+   Idioma    : Greenlandic
+   Divisa    : krone (DKK)
+
+24. Saint Martin
+   Capital   : Marigot
+   Población : 38.659
+   Idioma    : French
+   Divisa    : Euro (EUR)
+
+25. Panama
+   Capital   : Panama City
+   Población : 4.314.768
+   Idioma    : Spanish
+   Divisa    : Panamanian balboa (PAB)
+
+26. Uruguay
+   Capital   : Montevideo
+   Población : 3.473.727
+   Idioma    : Spanish
+   Divisa    : Uruguayan peso (UYU)
+
+27. Aruba
+   Capital   : Oranjestad
+   Población : 106.766
+   Idioma    : Dutch
+   Divisa    : Aruban florin (AWG)
+
+28. Montserrat
+   Capital   : Plymouth
+   Población : 4.922
+   Idioma    : English
+   Divisa    : Eastern Caribbean dollar (XCD)
+
+29. Trinidad and Tobago
+   Capital   : Port of Spain
+   Población : 1.399.491
+   Idioma    : English
+   Divisa    : Trinidad and Tobago dollar (TTD)
+
+30. Saint Barthélemy
+   Capital   : Gustavia
+   Población : 4.255
+   Idioma    : French
+   Divisa    : Euro (EUR)
+
+31. Ecuador
+   Capital   : Quito
+   Población : 17.643.060
+   Idioma    : Spanish
+   Divisa    : United States dollar (USD)
+
+32. Saint Vincent and the Grenadines
+   Capital   : Kingstown
+   Población : 110.947
+   Idioma    : English
+   Divisa    : Eastern Caribbean dollar (XCD)
+
+33. Caribbean Netherlands
+   Capital   : Kralendijk
+   Población : 25.987
+   Idioma    : English
+   Divisa    : United States dollar (USD)
+
+34. Falkland Islands
+   Capital   : Stanley
+   Población : 2.563
+   Idioma    : English
+   Divisa    : Falkland Islands pound (FKP)
+
+35. Barbados
+   Capital   : Bridgetown
+   Población : 287.371
+   Idioma    : English
+   Divisa    : Barbadian dollar (BBD)
+
+36. British Virgin Islands
+   Capital   : Road Town
+   Población : 30.237
+   Idioma    : English
+   Divisa    : United States dollar (USD)
+
+37. Dominican Republic
+   Capital   : Santo Domingo
+   Población : 10.847.904
+   Idioma    : Spanish
+   Divisa    : Dominican peso (DOP)
+
+38. Costa Rica
+   Capital   : San José
+   Población : 5.094.114
+   Idioma    : Spanish
+   Divisa    : Costa Rican colón (CRC)
+
+39. Guatemala
+   Capital   : Guatemala City
+   Población : 16.858.333
+   Idioma    : Spanish
+   Divisa    : Guatemalan quetzal (GTQ)
+
+40. Suriname
+   Capital   : Paramaribo
+   Población : 586.634
+   Idioma    : Dutch
+   Divisa    : Surinamese dollar (SRD)
+
+41. Venezuela
+   Capital   : Caracas
+   Población : 28.435.943
+   Idioma    : Spanish
+   Divisa    : Venezuelan bolívar soberano (VES)
+
+42. Dominica
+   Capital   : Roseau
+   Población : 71.991
+   Idioma    : English
+   Divisa    : Eastern Caribbean dollar (XCD)
+
+43. Colombia
+   Capital   : Bogotá
+   Población : 50.882.884
+   Idioma    : Spanish
+   Divisa    : Colombian peso (COP)
+
+44. Grenada
+   Capital   : St. George's
+   Población : 112.519
+   Idioma    : English
+   Divisa    : Eastern Caribbean dollar (XCD)
+
+45. Canada
+   Capital   : Ottawa
+   Población : 38.005.238
+   Idioma    : English
+   Divisa    : Canadian dollar (CAD)
+
+46. Jamaica
+   Capital   : Kingston
+   Población : 2.961.161
+   Idioma    : English
+   Divisa    : Jamaican dollar (JMD)
+
+47. Saint Pierre and Miquelon
+   Capital   : Saint-Pierre
+   Población : 6.069
+   Idioma    : French
+   Divisa    : Euro (EUR)
+
+48. Bahamas
+   Capital   : Nassau
+   Población : 393.248
+   Idioma    : English
+   Divisa    : Bahamian dollar (BSD)
+
+49. El Salvador
+   Capital   : San Salvador
+   Población : 6.486.201
+   Idioma    : Spanish
+   Divisa    : United States dollar (USD)
+
+50. Brazil
+   Capital   : Brasília
+   Población : 212.559.409
+   Idioma    : Portuguese
+   Divisa    : Brazilian real (BRL)
+
+51. Curaçao
+   Capital   : Willemstad
+   Población : 155.014
+   Idioma    : English
+   Divisa    : Netherlands Antillean guilder (ANG)
+
+52. Honduras
+   Capital   : Tegucigalpa
+   Población : 9.904.608
+   Idioma    : Spanish
+   Divisa    : Honduran lempira (HNL)
+
+53. Nicaragua
+   Capital   : Managua
+   Población : 6.624.554
+   Idioma    : Spanish
+   Divisa    : Nicaraguan córdoba (NIO)
+
+54. Cayman Islands
+   Capital   : George Town
+   Población : 65.720
+   Idioma    : English
+   Divisa    : Cayman Islands dollar (KYD)
+
+55. Guyana
+   Capital   : Georgetown
+   Población : 786.559
+   Idioma    : English
+   Divisa    : Guyanese dollar (GYD)
+
+56. Saint Lucia
+   Capital   : Castries
+   Población : 183.629
+   Idioma    : English
+   Divisa    : Eastern Caribbean dollar (XCD)
+
