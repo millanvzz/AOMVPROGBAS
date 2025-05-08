@@ -1,57 +1,57 @@
-nombre,capital,poblacion,idioma,divisa
-Mexico,Mexico City,128.932.753,Spanish,Mexican peso (MXN)
-United States Virgin Islands,Charlotte Amalie,106.290,English,United States dollar (USD)
-Haiti,Port-au-Prince,11.402.533,French,Haitian gourde (HTG)
-Belize,Belmopan,397.621,Belizean Creole,Belize dollar (BZD)
-Sint Maarten,Philipsburg,40.812,English,Netherlands Antillean guilder (ANG)
-French Guiana,Cayenne,254.541,French,Euro (EUR)
-Cuba,Havana,11.326.616,Spanish,Cuban convertible peso (CUC)
-Martinique,Fort-de-France,378.243,French,Euro (EUR)
-Antigua and Barbuda,Saint John's,97.928,English,Eastern Caribbean dollar (XCD)
-Peru,Lima,32.971.846,Aymara,Peruvian sol (PEN)
-Bermuda,Hamilton,63.903,English,Bermudian dollar (BMD)
-Guadeloupe,Basse-Terre,400.132,French,Euro (EUR)
-United States,"Washington, D.C.",329.484.123,English,United States dollar (USD)
-Argentina,Buenos Aires,45.376.763,Guaraní,Argentine peso (ARS)
-Puerto Rico,San Juan,3.194.034,English,United States dollar (USD)
-Turks and Caicos Islands,Cockburn Town,38.718,English,United States dollar (USD)
-Paraguay,Asunción,7.132.530,Guaraní,Paraguayan guaraní (PYG)
-Chile,Santiago,19.116.209,Spanish,Chilean peso (CLP)
-Saint Kitts and Nevis,Basseterre,53.192,English,Eastern Caribbean dollar (XCD)
-United States Minor Outlying Islands,Washington DC,300,English,United States dollar (USD)
-Anguilla,The Valley,13.452,English,Eastern Caribbean dollar (XCD)
-Bolivia,Sucre,11.673.029,Aymara,Bolivian boliviano (BOB)
-Greenland,Nuuk,56.367,Greenlandic,krone (DKK)
-Saint Martin,Marigot,38.659,French,Euro (EUR)
-Panama,Panama City,4.314.768,Spanish,Panamanian balboa (PAB)
-Uruguay,Montevideo,3.473.727,Spanish,Uruguayan peso (UYU)
-Aruba,Oranjestad,106.766,Dutch,Aruban florin (AWG)
-Montserrat,Plymouth,4.922,English,Eastern Caribbean dollar (XCD)
-Trinidad and Tobago,Port of Spain,1.399.491,English,Trinidad and Tobago dollar (TTD)
-Saint Barthélemy,Gustavia,4.255,French,Euro (EUR)
-Ecuador,Quito,17.643.060,Spanish,United States dollar (USD)
-Saint Vincent and the Grenadines,Kingstown,110.947,English,Eastern Caribbean dollar (XCD)
-Caribbean Netherlands,Kralendijk,25.987,English,United States dollar (USD)
-Falkland Islands,Stanley,2.563,English,Falkland Islands pound (FKP)
-Barbados,Bridgetown,287.371,English,Barbadian dollar (BBD)
-British Virgin Islands,Road Town,30.237,English,United States dollar (USD)
-Dominican Republic,Santo Domingo,10.847.904,Spanish,Dominican peso (DOP)
-Costa Rica,San José,5.094.114,Spanish,Costa Rican colón (CRC)
-Guatemala,Guatemala City,16.858.333,Spanish,Guatemalan quetzal (GTQ)
-Suriname,Paramaribo,586.634,Dutch,Surinamese dollar (SRD)
-Venezuela,Caracas,28.435.943,Spanish,Venezuelan bolívar soberano (VES)
-Dominica,Roseau,71.991,English,Eastern Caribbean dollar (XCD)
-Colombia,Bogotá,50.882.884,Spanish,Colombian peso (COP)
-Grenada,St. George's,112.519,English,Eastern Caribbean dollar (XCD)
-Canada,Ottawa,38.005.238,English,Canadian dollar (CAD)
-Jamaica,Kingston,2.961.161,English,Jamaican dollar (JMD)
-Saint Pierre and Miquelon,Saint-Pierre,6.069,French,Euro (EUR)
-Bahamas,Nassau,393.248,English,Bahamian dollar (BSD)
-El Salvador,San Salvador,6.486.201,Spanish,United States dollar (USD)
-Brazil,Brasília,212.559.409,Portuguese,Brazilian real (BRL)
-Curaçao,Willemstad,155.014,English,Netherlands Antillean guilder (ANG)
-Honduras,Tegucigalpa,9.904.608,Spanish,Honduran lempira (HNL)
-Nicaragua,Managua,6.624.554,Spanish,Nicaraguan córdoba (NIO)
-Cayman Islands,George Town,65.720,English,Cayman Islands dollar (KYD)
-Guyana,Georgetown,786.559,English,Guyanese dollar (GYD)
-Saint Lucia,Castries,183.629,English,Eastern Caribbean dollar (XCD)
+nombre,capital,poblacion,idioma,divisa,continente
+Mexico,Mexico City,128.932.753,Spanish,Mexican peso (MXN),America
+United States Virgin Islands,Charlotte Amalie,106.290,English,United States dollar (USD),America
+Haiti,Port-au-Prince,11.402.533,French,Haitian gourde (HTG),America
+Belize,Belmopan,397.621,Belizean Creole,Belize dollar (BZD),America
+Sint Maarten,Philipsburg,40.812,English,Netherlands Antillean guilder (ANG),America
+French Guiana,Cayenne,254.541,French,Euro (EUR),America
+Cuba,Havana,11.326.616,Spanish,Cuban convertible peso (CUC),America
+Martinique,Fort-de-France,378.243,French,Euro (EUR),America
+Antigua and Barbuda,Saint John's,97.928,English,Eastern Caribbean dollar (XCD),America
+Peru,Lima,32.971.846,Aymara,Peruvian sol (PEN),America
+Bermuda,Hamilton,63.903,English,Bermudian dollar (BMD),America
+Guadeloupe,Basse-Terre,400.132,French,Euro (EUR),America
+United States,"Washington, D.C.",329.484.123,English,United States dollar (USD),America
+Argentina,Buenos Aires,45.376.763,Guaraní,Argentine peso (ARS),America
+Puerto Rico,San Juan,3.194.034,English,United States dollar (USD),America
+Turks and Caicos Islands,Cockburn Town,38.718,English,United States dollar (USD),America
+Paraguay,Asunción,7.132.530,Guaraní,Paraguayan guaraní (PYG),America
+Chile,Santiago,19.116.209,Spanish,Chilean peso (CLP),America
+Saint Kitts and Nevis,Basseterre,53.192,English,Eastern Caribbean dollar (XCD),America
+United States Minor Outlying Islands,Washington DC,300,English,United States dollar (USD),America
+Anguilla,The Valley,13.452,English,Eastern Caribbean dollar (XCD),America
+Bolivia,Sucre,11.673.029,Aymara,Bolivian boliviano (BOB),America
+Greenland,Nuuk,56.367,Greenlandic,krone (DKK),America
+Saint Martin,Marigot,38.659,French,Euro (EUR),America
+Panama,Panama City,4.314.768,Spanish,Panamanian balboa (PAB),America
+Uruguay,Montevideo,3.473.727,Spanish,Uruguayan peso (UYU),America
+Aruba,Oranjestad,106.766,Dutch,Aruban florin (AWG),America
+Montserrat,Plymouth,4.922,English,Eastern Caribbean dollar (XCD),America
+Trinidad and Tobago,Port of Spain,1.399.491,English,Trinidad and Tobago dollar (TTD),America
+Saint Barthélemy,Gustavia,4.255,French,Euro (EUR),America
+Ecuador,Quito,17.643.060,Spanish,United States dollar (USD),America
+Saint Vincent and the Grenadines,Kingstown,110.947,English,Eastern Caribbean dollar (XCD),America
+Caribbean Netherlands,Kralendijk,25.987,English,United States dollar (USD),America
+Falkland Islands,Stanley,2.563,English,Falkland Islands pound (FKP),America
+Barbados,Bridgetown,287.371,English,Barbadian dollar (BBD),America
+British Virgin Islands,Road Town,30.237,English,United States dollar (USD),America
+Dominican Republic,Santo Domingo,10.847.904,Spanish,Dominican peso (DOP),America
+Costa Rica,San José,5.094.114,Spanish,Costa Rican colón (CRC),America
+Guatemala,Guatemala City,16.858.333,Spanish,Guatemalan quetzal (GTQ),America
+Suriname,Paramaribo,586.634,Dutch,Surinamese dollar (SRD),America
+Venezuela,Caracas,28.435.943,Spanish,Venezuelan bolívar soberano (VES),America
+Dominica,Roseau,71.991,English,Eastern Caribbean dollar (XCD),America
+Colombia,Bogotá,50.882.884,Spanish,Colombian peso (COP),America
+Grenada,St. George's,112.519,English,Eastern Caribbean dollar (XCD),America
+Canada,Ottawa,38.005.238,English,Canadian dollar (CAD),America
+Jamaica,Kingston,2.961.161,English,Jamaican dollar (JMD),America
+Saint Pierre and Miquelon,Saint-Pierre,6.069,French,Euro (EUR),America
+Bahamas,Nassau,393.248,English,Bahamian dollar (BSD),America
+El Salvador,San Salvador,6.486.201,Spanish,United States dollar (USD),America
+Brazil,Brasília,212.559.409,Portuguese,Brazilian real (BRL),America
+Curaçao,Willemstad,155.014,English,Netherlands Antillean guilder (ANG),America
+Honduras,Tegucigalpa,9.904.608,Spanish,Honduran lempira (HNL),America
+Nicaragua,Managua,6.624.554,Spanish,Nicaraguan córdoba (NIO),America
+Cayman Islands,George Town,65.720,English,Cayman Islands dollar (KYD),America
+Guyana,Georgetown,786.559,English,Guyanese dollar (GYD),America
+Saint Lucia,Castries,183.629,English,Eastern Caribbean dollar (XCD),America
