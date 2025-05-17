@@ -5,6 +5,8 @@ import statistics as stats
 import pandas as pd
 import os
 import matplotlib.pyplot as plt
+import platform
+import subprocess
 
 # Lectura y validación de datos del archivo CSV
 def leer_y_validar_csv(nombre_archivo):
@@ -195,11 +197,52 @@ def graficar_datos_poblacion(datos):
     plt.title('Gráfico de Pastel - Distribución Poblacional')
 
     plt.tight_layout()
-    plt.show(block=False)  
+    plt.show(block=False)
+
+# Utilidades de sistema
+def abrir_archivo(nombre_archivo):
+    sistema = platform.system()
+    try:
+        if sistema == "Windows":
+            os.startfile(nombre_archivo)
+        elif sistema == "Darwin":
+            subprocess.run(["open", nombre_archivo])
+        else:
+            subprocess.run(["xdg-open", nombre_archivo])
+    except Exception as e:
+        print(f"No se pudo abrir el archivo automáticamente: {e}")
+
+def obtener_continentes_disponibles():
+    archivos_csv = [f for f in os.listdir() if f.lower().endswith(".csv")]
+    continentes = [os.path.splitext(f)[0] for f in archivos_csv]
+    return continentes
+
+def mostrar_menu_continentes(continentes):
+    print("\nContinentes disponibles:")
+    for i, continente in enumerate(continentes, 1):
+        print(f"{i}. {continente}")
+    while True:
+        try:
+            opcion = int(input("Selecciona un número de la lista: "))
+            if 1 <= opcion <= len(continentes):
+                return continentes[opcion - 1]
+            else:
+                print("Número fuera de rango. Intenta de nuevo.")
+        except ValueError:
+            print("Entrada no válida. Debes ingresar un número.")
 
 # Ejecución principal
 if __name__ == "__main__":
-    archivo = input("Ingresa el nombre del archivo CSV a procesar (ej. paises.csv): ").strip()
+    continentes_disponibles = obtener_continentes_disponibles()
+    
+    if not continentes_disponibles:
+        print("No se encontraron archivos CSV en el directorio actual.")
+        input("Presiona ENTER para salir...")
+        exit()
+
+    continente = mostrar_menu_continentes(continentes_disponibles)
+    archivo = f"{continente}.csv"
+
     datos = leer_y_validar_csv(archivo)
 
     if datos:
@@ -214,11 +257,10 @@ if __name__ == "__main__":
         analizar_datos_poblacion(datos)
         graficar_datos_poblacion(datos)
 
-        continente = input("\nIngresa el nombre del continente para exportar (ej.Europa): ").strip()
         exportar_a_excel_por_continente(datos, continente)
-        os.startfile(f"{continente.lower()}_paises.xlsx")
+        abrir_archivo(f"{continente.lower()}_paises.xlsx")
 
-        input("\nPresiona ENTER para finalizar...")  # Evita que las gráficas se cierren de inmediato
+        input("\nPresiona ENTER para finalizar...")
 
     else:
         print("\nNo se pudieron procesar los datos.")

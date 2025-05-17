@@ -1,60 +1,60 @@
 nombre,capital,poblacion,idioma,divisa,continente
-Botswana,Gaborone,2.351.625,English,Botswana pula (BWP),Africa
+Sierra Leone,Freetown,7.976.985,English,Leone (SLE),Africa
+Eritrea,Asmara,5.352.000,Arabic,Eritrean nakfa (ERN),Africa
+Cameroon,Yaoundé,26.545.864,English,Central African CFA franc (XAF),Africa
+Djibouti,Djibouti,988.002,Arabic,Djiboutian franc (DJF),Africa
+Malawi,Lilongwe,19.129.955,English,Malawian kwacha (MWK),Africa
+Burundi,Gitega,11.890.781,French,Burundian franc (BIF),Africa
+Tunisia,Tunis,11.818.618,Arabic,Tunisian dinar (TND),Africa
+Senegal,Dakar,16.743.930,French,West African CFA franc (XOF),Africa
+Angola,Luanda,32.866.268,Portuguese,Angolan kwanza (AOA),Africa
+Togo,Lomé,8.278.737,French,West African CFA franc (XOF),Africa
+Republic of the Congo,Brazzaville,5.657.000,French,Central African CFA franc (XAF),Africa
+Madagascar,Antananarivo,27.691.019,French,Malagasy ariary (MGA),Africa
+Western Sahara,El Aaiún,510.713,Berber,Algerian dinar (DZD),Africa
+Mozambique,Maputo,31.255.435,Portuguese,Mozambican metical (MZN),Africa
+Equatorial Guinea,Malabo,1.402.985,French,Central African CFA franc (XAF),Africa
+Benin,Porto-Novo,12.123.198,French,West African CFA franc (XOF),Africa
+Ivory Coast,Yamoussoukro,26.378.275,French,West African CFA franc (XOF),Africa
+"Saint Helena, Ascension and Tristan da Cunha",Jamestown,53.192,English,Pound sterling (GBP),Africa
+Guinea-Bissau,Bissau,1.967.998,Portuguese,West African CFA franc (XOF),Africa
+Chad,N'Djamena,16.425.859,Arabic,Central African CFA franc (XAF),Africa
 Ghana,Accra,31.072.945,English,Ghanaian cedi (GHS),Africa
+Mali,Bamako,20.250.834,French,West African CFA franc (XOF),Africa
+Gabon,Libreville,2.225.728,French,Central African CFA franc (XAF),Africa
 Namibia,Windhoek,2.540.916,Afrikaans,Namibian dollar (NAD),Africa
 Seychelles,Victoria,98.462,Seychellois Creole,Seychellois rupee (SCR),Africa
-Malawi,Lilongwe,19.129.955,English,Malawian kwacha (MWK),Africa
-Republic of the Congo,Brazzaville,5.657.000,French,Central African CFA franc (XAF),Africa
-Eritrea,Asmara,5.352.000,Arabic,Eritrean nakfa (ERN),Africa
-Guinea-Bissau,Bissau,1.967.998,Portuguese,West African CFA franc (XOF),Africa
-Tanzania,Dodoma,59.734.213,English,Tanzanian shilling (TZS),Africa
-Ethiopia,Addis Ababa,114.963.583,Amharic,Ethiopian birr (ETB),Africa
-Mauritania,Nouakchott,4.649.660,Arabic,Mauritanian ouguiya (MRU),Africa
-Réunion,Saint-Denis,840.974,French,Euro (EUR),Africa
-Gabon,Libreville,2.225.728,French,Central African CFA franc (XAF),Africa
-Somalia,Mogadishu,15.893.219,Arabic,Somali shilling (SOS),Africa
-DR Congo,Kinshasa,108.407.721,French,Congolese franc (CDF),Africa
-Equatorial Guinea,Malabo,1.402.985,French,Central African CFA franc (XAF),Africa
-Mauritius,Port Louis,1.265.740,English,Mauritian rupee (MUR),Africa
 Rwanda,Kigali,12.952.209,English,Rwandan franc (RWF),Africa
-Benin,Porto-Novo,12.123.198,French,West African CFA franc (XOF),Africa
-Sudan,Khartoum,43.849.269,Arabic,Sudanese pound (SDG),Africa
-Togo,Lomé,8.278.737,French,West African CFA franc (XOF),Africa
-Libya,Tripoli,6.871.287,Arabic,Libyan dinar (LYD),Africa
-Mali,Bamako,20.250.834,French,West African CFA franc (XOF),Africa
-Zimbabwe,Harare,14.862.927,Chibarwe,Zimbabwean dollar (ZWL),Africa
-Nigeria,Abuja,206.139.587,English,Nigerian naira (NGN),Africa
-Kenya,Nairobi,53.771.300,English,Kenyan shilling (KES),Africa
-South Sudan,Juba,11.193.729,English,South Sudanese pound (SSP),Africa
-Lesotho,Maseru,2.142.252,English,Lesotho loti (LSL),Africa
-Zambia,Lusaka,18.383.956,English,Zambian kwacha (ZMW),Africa
-Burundi,Gitega,11.890.781,French,Burundian franc (BIF),Africa
-Western Sahara,El Aaiún,510.713,Berber,Algerian dinar (DZD),Africa
-Mayotte,Mamoudzou,226.915,French,Euro (EUR),Africa
-Gambia,Banjul,2.416.664,English,dalasi (GMD),Africa
-Sierra Leone,Freetown,7.976.985,English,Leone (SLE),Africa
-Tunisia,Tunis,11.818.618,Arabic,Tunisian dinar (TND),Africa
-Cameroon,Yaoundé,26.545.864,English,Central African CFA franc (XAF),Africa
+Mauritania,Nouakchott,4.649.660,Arabic,Mauritanian ouguiya (MRU),Africa
 British Indian Ocean Territory,Diego Garcia,3.000,English,United States dollar (USD),Africa
-Mozambique,Maputo,31.255.435,Portuguese,Mozambican metical (MZN),Africa
-São Tomé and Príncipe,São Tomé,219.161,Portuguese,São Tomé and Príncipe dobra (STN),Africa
-Ivory Coast,Yamoussoukro,26.378.275,French,West African CFA franc (XOF),Africa
-Comoros,Moroni,869.595,Arabic,Comorian franc (KMF),Africa
-Egypt,Cairo,102.334.403,Arabic,Egyptian pound (EGP),Africa
-Senegal,Dakar,16.743.930,French,West African CFA franc (XOF),Africa
-Liberia,Monrovia,5.057.677,English,Liberian dollar (LRD),Africa
-Cape Verde,Praia,555.988,Portuguese,Cape Verdean escudo (CVE),Africa
-Burkina Faso,Ouagadougou,20.903.278,French,West African CFA franc (XOF),Africa
-Djibouti,Djibouti,988.002,Arabic,Djiboutian franc (DJF),Africa
-Algeria,Algiers,44.700.000,Arabic,Algerian dinar (DZD),Africa
-Angola,Luanda,32.866.268,Portuguese,Angolan kwanza (AOA),Africa
-South Africa,"Pretoria, Bloemfontein, Cape Town",59.308.690,Afrikaans,South African rand (ZAR),Africa
-Niger,Niamey,24.206.636,French,West African CFA franc (XOF),Africa
-Eswatini,Mbabane,1.160.164,English,Swazi lilangeni (SZL),Africa
 Guinea,Conakry,13.132.792,French,Guinean franc (GNF),Africa
+Zimbabwe,Harare,14.862.927,Chibarwe,Zimbabwean dollar (ZWL),Africa
+Eswatini,Mbabane,1.160.164,English,Swazi lilangeni (SZL),Africa
 Central African Republic,Bangui,4.829.764,French,Central African CFA franc (XAF),Africa
+Algeria,Algiers,44.700.000,Arabic,Algerian dinar (DZD),Africa
+Niger,Niamey,24.206.636,French,West African CFA franc (XOF),Africa
+DR Congo,Kinshasa,108.407.721,French,Congolese franc (CDF),Africa
+Libya,Tripoli,6.871.287,Arabic,Libyan dinar (LYD),Africa
+Zambia,Lusaka,18.383.956,English,Zambian kwacha (ZMW),Africa
+Liberia,Monrovia,5.057.677,English,Liberian dollar (LRD),Africa
+Sudan,Khartoum,43.849.269,Arabic,Sudanese pound (SDG),Africa
+Comoros,Moroni,869.595,Arabic,Comorian franc (KMF),Africa
+Tanzania,Dodoma,59.734.213,English,Tanzanian shilling (TZS),Africa
+South Africa,"Pretoria, Bloemfontein, Cape Town",59.308.690,Afrikaans,South African rand (ZAR),Africa
+Mauritius,Port Louis,1.265.740,English,Mauritian rupee (MUR),Africa
+Ethiopia,Addis Ababa,114.963.583,Amharic,Ethiopian birr (ETB),Africa
+Nigeria,Abuja,206.139.587,English,Nigerian naira (NGN),Africa
+Burkina Faso,Ouagadougou,20.903.278,French,West African CFA franc (XOF),Africa
+São Tomé and Príncipe,São Tomé,219.161,Portuguese,São Tomé and Príncipe dobra (STN),Africa
+Egypt,Cairo,102.334.403,Arabic,Egyptian pound (EGP),Africa
 Uganda,Kampala,45.741.000,English,Ugandan shilling (UGX),Africa
-Chad,N'Djamena,16.425.859,Arabic,Central African CFA franc (XAF),Africa
-"Saint Helena, Ascension and Tristan da Cunha",Jamestown,53.192,English,Pound sterling (GBP),Africa
-Madagascar,Antananarivo,27.691.019,French,Malagasy ariary (MGA),Africa
+Mayotte,Mamoudzou,226.915,French,Euro (EUR),Africa
+South Sudan,Juba,11.193.729,English,South Sudanese pound (SSP),Africa
 Morocco,Rabat,36.910.558,Arabic,Moroccan dirham (MAD),Africa
+Cape Verde,Praia,555.988,Portuguese,Cape Verdean escudo (CVE),Africa
+Gambia,Banjul,2.416.664,English,dalasi (GMD),Africa
+Somalia,Mogadishu,15.893.219,Arabic,Somali shilling (SOS),Africa
+Lesotho,Maseru,2.142.252,English,Lesotho loti (LSL),Africa
+Kenya,Nairobi,53.771.300,English,Kenyan shilling (KES),Africa
+Botswana,Gaborone,2.351.625,English,Botswana pula (BWP),Africa
+Réunion,Saint-Denis,840.974,French,Euro (EUR),Africa

@@ -2,9 +2,9 @@ import requests
 import socket
 import csv
 
-API_BASE = "https://restcountries.com/v3.1/region/"
+API_BASE = "https://restcountries.com/v3.1/region/" #Nombre de la api base
 
-MAPEO_CONTINENTES = {
+MAPEO_CONTINENTES = {  #Validaciones para poder introducir el continente sin tener que ser exacto
     "africa": "africa",
     "áfrica": "africa",
     "america": "americas",
@@ -17,14 +17,14 @@ MAPEO_CONTINENTES = {
     "oceanía": "oceania"
 }
 
-def verificar_conexion():
+def verificar_conexion():  #Funcion para revisar conexion
     try:
         socket.create_connection(("8.8.8.8", 53), timeout=3)
         return True
     except OSError:
         return False
 
-def obtener_paises_por_continente(continente):
+def obtener_paises_por_continente(continente):  #Llamar a los paises de la api
     continente_api = MAPEO_CONTINENTES.get(continente.lower())
     if not continente_api:
         return None
@@ -37,7 +37,7 @@ def obtener_paises_por_continente(continente):
     except requests.exceptions.RequestException:
         return None
 
-def limpiar_datos_paises(paises, continente):
+def limpiar_datos_paises(paises, continente):  #Acomodar la informacion de la api
     datos_limpios = []
     for pais in paises:
         nombre = pais.get("name", {}).get("common", "Desconocido")
@@ -64,7 +64,7 @@ def limpiar_datos_paises(paises, continente):
         })
     return datos_limpios
 
-def guardar_en_csv(nombre_archivo, datos):
+def guardar_en_csv(nombre_archivo, datos): #Funcion para crear el archivo csv 
     with open(nombre_archivo, mode='w', newline='', encoding='utf-8') as archivo:
         campos = ["nombre", "capital", "poblacion", "idioma", "divisa", "continente"]
         writer = csv.DictWriter(archivo, fieldnames=campos)
@@ -72,12 +72,12 @@ def guardar_en_csv(nombre_archivo, datos):
         for fila in datos:
             writer.writerow(fila)
 
-def mostrar_info_continente():
-    if not verificar_conexion():
+def mostrar_info_continente(): #Impresiones y salidas
+    if not verificar_conexion(): #Si no hay internet
         print("Error: No hay conexión a Internet.")
         return
 
-    print("\n--- Explorador de Países por Continente ---")
+    print("\n--- Explorador de Países por Continente ---") #Menu
     print("Continentes disponibles:")
     print("- África\n- América\n- Antártida\n- Asia\n- Europa\n- Oceanía")
 
@@ -97,7 +97,7 @@ def mostrar_info_continente():
 
         nombre_csv = f"{continente_usuario}_paises.csv"
         guardar_en_csv(nombre_csv, paises_limpios)
-        print(f"\n✅ Archivo CSV generado: {nombre_csv}")
+        print(f"\n Archivo CSV generado: {nombre_csv}")
     else:
         print("No se pudo obtener la información del continente.")
 
